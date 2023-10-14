@@ -1,0 +1,1106 @@
+{
+ "0": {
+  "symbol": "6469",
+  "name": "大樹",
+  "revenue": 1350329,
+  "L_Mon_Compare": -1.83,
+  "L_Year_Compare": 10.05,
+  "Remark": "-"
+ },
+ "1": {
+  "symbol": "5009",
+  "name": "榮剛",
+  "revenue": 1069166,
+  "L_Mon_Compare": -4.13,
+  "L_Year_Compare": 2.3,
+  "Remark": "-"
+ },
+ "2": {
+  "symbol": "3105",
+  "name": "穩懋",
+  "revenue": 1381594,
+  "L_Mon_Compare": -1.51,
+  "L_Year_Compare": 16.55,
+  "Remark": "-"
+ },
+ "3": {
+  "symbol": "3260",
+  "name": "威剛",
+  "revenue": 3342305,
+  "L_Mon_Compare": 12.49,
+  "L_Year_Compare": 3.95,
+  "Remark": "-"
+ },
+ "4": {
+  "symbol": "5483",
+  "name": "中美晶",
+  "revenue": 7244605,
+  "L_Mon_Compare": 17.42,
+  "L_Year_Compare": 0.6,
+  "Remark": "-"
+ },
+ "5": {
+  "symbol": "6488",
+  "name": "環球晶",
+  "revenue": 6428925,
+  "L_Mon_Compare": 17.7,
+  "L_Year_Compare": 6.03,
+  "Remark": "-"
+ },
+ "6": {
+  "symbol": "8299",
+  "name": "群聯",
+  "revenue": 5003863,
+  "L_Mon_Compare": 25.39,
+  "L_Year_Compare": 4.05,
+  "Remark": "-"
+ },
+ "7": {
+  "symbol": "3078",
+  "name": "僑威",
+  "revenue": 1051009,
+  "L_Mon_Compare": -3.24,
+  "L_Year_Compare": 101.12,
+  "Remark": "111年市場不景氣，客戶庫存壓力，公司接單減少；112年市場回暖，訂單增加，使得本月及本年營收均較去年同期增長。"
+ },
+ "8": {
+  "symbol": "6274",
+  "name": "台燿",
+  "revenue": 1499206,
+  "L_Mon_Compare": 8.42,
+  "L_Year_Compare": 0.59,
+  "Remark": "-"
+ },
+ "9": {
+  "symbol": "8096",
+  "name": "擎亞",
+  "revenue": 2373318,
+  "L_Mon_Compare": 41.61,
+  "L_Year_Compare": 34.43,
+  "Remark": "-"
+ },
+ "10": {
+  "symbol": "1785",
+  "name": "光洋科",
+  "revenue": 2306288,
+  "L_Mon_Compare": 20.87,
+  "L_Year_Compare": 19.96,
+  "Remark": "-"
+ },
+ "11": {
+  "symbol": "3324",
+  "name": "雙鴻",
+  "revenue": 1234989,
+  "L_Mon_Compare": 4.11,
+  "L_Year_Compare": 15.53,
+  "Remark": "-"
+ },
+ "12": {
+  "symbol": "3552",
+  "name": "同致",
+  "revenue": 1009296,
+  "L_Mon_Compare": 15.05,
+  "L_Year_Compare": 15.18,
+  "Remark": "-"
+ },
+ "13": {
+  "symbol": "3293",
+  "name": "鈊象",
+  "revenue": 1207190,
+  "L_Mon_Compare": -1.7,
+  "L_Year_Compare": 20.44,
+  "Remark": "-"
+ },
+ "14": {
+  "symbol": "8044",
+  "name": "網家",
+  "revenue": 3437275,
+  "L_Mon_Compare": 5.2,
+  "L_Year_Compare": 0.61,
+  "Remark": "-"
+ },
+ "15": {
+  "symbol": "5903",
+  "name": "全家",
+  "revenue": 8479103,
+  "L_Mon_Compare": -4.65,
+  "L_Year_Compare": 11.37,
+  "Remark": "-"
+ },
+ "16": {
+  "symbol": "5904",
+  "name": "寶雅",
+  "revenue": 1935399,
+  "L_Mon_Compare": 0.07,
+  "L_Year_Compare": 14.59,
+  "Remark": "-"
+ },
+ "17": {
+  "symbol": "4532",
+  "name": "瑞智",
+  "revenue": 1194250,
+  "L_Mon_Compare": -9.64,
+  "L_Year_Compare": 15.5,
+  "Remark": "-"
+ },
+ "18": {
+  "symbol": "1605",
+  "name": "華新",
+  "revenue": 16771119,
+  "L_Mon_Compare": 16.38,
+  "L_Year_Compare": 19.65,
+  "Remark": "-"
+ },
+ "19": {
+  "symbol": "1717",
+  "name": "長興",
+  "revenue": 3916160,
+  "L_Mon_Compare": -1.19,
+  "L_Year_Compare": 2.9,
+  "Remark": "-"
+ },
+ "20": {
+  "symbol": "1718",
+  "name": "中纖",
+  "revenue": 3420387,
+  "L_Mon_Compare": -6.61,
+  "L_Year_Compare": 23.05,
+  "Remark": "本月份自結異業別合併營收資訊，未經會計師簽證或核閱。"
+ },
+ "21": {
+  "symbol": "1802",
+  "name": "台玻",
+  "revenue": 4106296,
+  "L_Mon_Compare": -6.1,
+  "L_Year_Compare": 16.85,
+  "Remark": "-"
+ },
+ "22": {
+  "symbol": "1904",
+  "name": "正隆",
+  "revenue": 3520373,
+  "L_Mon_Compare": -0.83,
+  "L_Year_Compare": 2.1,
+  "Remark": "-"
+ },
+ "23": {
+  "symbol": "2006",
+  "name": "東和鋼鐵",
+  "revenue": 5370273,
+  "L_Mon_Compare": 0.2,
+  "L_Year_Compare": 14.48,
+  "Remark": "-"
+ },
+ "24": {
+  "symbol": "2014",
+  "name": "中鴻",
+  "revenue": 3139403,
+  "L_Mon_Compare": -1.98,
+  "L_Year_Compare": 16.91,
+  "Remark": "-"
+ },
+ "25": {
+  "symbol": "2031",
+  "name": "新光鋼",
+  "revenue": 1461510,
+  "L_Mon_Compare": -4.71,
+  "L_Year_Compare": 10.27,
+  "Remark": "-"
+ },
+ "26": {
+  "symbol": "9958",
+  "name": "世紀鋼",
+  "revenue": 1245560,
+  "L_Mon_Compare": 3.25,
+  "L_Year_Compare": 37.9,
+  "Remark": "本年增加百分比達50%以上，主要係風力事業案相關工程收入挹注所致。"
+ },
+ "27": {
+  "symbol": "1319",
+  "name": "東陽",
+  "revenue": 2156228,
+  "L_Mon_Compare": 3.78,
+  "L_Year_Compare": 13.49,
+  "Remark": "-"
+ },
+ "28": {
+  "symbol": "1522",
+  "name": "堤維西",
+  "revenue": 1647751,
+  "L_Mon_Compare": -9.48,
+  "L_Year_Compare": 0.85,
+  "Remark": "-"
+ },
+ "29": {
+  "symbol": "2201",
+  "name": "裕隆",
+  "revenue": 7204757,
+  "L_Mon_Compare": 12.16,
+  "L_Year_Compare": 17.65,
+  "Remark": "-"
+ },
+ "30": {
+  "symbol": "2204",
+  "name": "中華",
+  "revenue": 3409468,
+  "L_Mon_Compare": 25.33,
+  "L_Year_Compare": 32.31,
+  "Remark": "-"
+ },
+ "31": {
+  "symbol": "2206",
+  "name": "三陽工業",
+  "revenue": 5423486,
+  "L_Mon_Compare": 0.9,
+  "L_Year_Compare": 8.14,
+  "Remark": "-"
+ },
+ "32": {
+  "symbol": "2227",
+  "name": "裕日車",
+  "revenue": 2840639,
+  "L_Mon_Compare": 88,
+  "L_Year_Compare": 53,
+  "Remark": "去年受疫情、上海封控以及港口塞港等不利因素衝擊，造成料件與成車供應短缺，影響車輛產銷情況，以致去年9月營收基期較低。"
+ },
+ "33": {
+  "symbol": "2247",
+  "name": "汎德永業",
+  "revenue": 4382452,
+  "L_Mon_Compare": 5.12,
+  "L_Year_Compare": 10.45,
+  "Remark": "-"
+ },
+ "34": {
+  "symbol": "6605",
+  "name": "帝寶",
+  "revenue": 1550046,
+  "L_Mon_Compare": -2.97,
+  "L_Year_Compare": 12.42,
+  "Remark": "-"
+ },
+ "35": {
+  "symbol": "2329",
+  "name": "華泰",
+  "revenue": 1627249,
+  "L_Mon_Compare": 6.01,
+  "L_Year_Compare": 39.29,
+  "Remark": "-"
+ },
+ "36": {
+  "symbol": "2441",
+  "name": "超豐",
+  "revenue": 1146695,
+  "L_Mon_Compare": -4.68,
+  "L_Year_Compare": 13.66,
+  "Remark": "-"
+ },
+ "37": {
+  "symbol": "2451",
+  "name": "創見",
+  "revenue": 1041420,
+  "L_Mon_Compare": 18.65,
+  "L_Year_Compare": 0.31,
+  "Remark": "-"
+ },
+ "38": {
+  "symbol": "2458",
+  "name": "義隆",
+  "revenue": 1207207,
+  "L_Mon_Compare": 1.26,
+  "L_Year_Compare": 34.26,
+  "Remark": "-"
+ },
+ "39": {
+  "symbol": "2481",
+  "name": "強茂",
+  "revenue": 1111484,
+  "L_Mon_Compare": -3.84,
+  "L_Year_Compare": 5.79,
+  "Remark": "本月營收淨額含功率元件及其他IC產品$1,102,677仟元及太陽能$21,085仟元，減銷退/折$12,278仟元"
+ },
+ "40": {
+  "symbol": "3034",
+  "name": "聯詠",
+  "revenue": 9560688,
+  "L_Mon_Compare": -1.37,
+  "L_Year_Compare": 54.93,
+  "Remark": "市場需求提升以及公司積極擴展業務，致營收較去年同期成長。"
+ },
+ "41": {
+  "symbol": "3443",
+  "name": "創意",
+  "revenue": 2324969,
+  "L_Mon_Compare": 2.31,
+  "L_Year_Compare": 10.31,
+  "Remark": "-"
+ },
+ "42": {
+  "symbol": "3545",
+  "name": "敦泰",
+  "revenue": 1263954,
+  "L_Mon_Compare": -1.65,
+  "L_Year_Compare": 27.87,
+  "Remark": "-"
+ },
+ "43": {
+  "symbol": "3592",
+  "name": "瑞鼎",
+  "revenue": 1672486,
+  "L_Mon_Compare": 0.11,
+  "L_Year_Compare": 40.84,
+  "Remark": "-"
+ },
+ "44": {
+  "symbol": "4961",
+  "name": "天鈺",
+  "revenue": 1446466,
+  "L_Mon_Compare": -0.46,
+  "L_Year_Compare": 11.43,
+  "Remark": "-"
+ },
+ "45": {
+  "symbol": "4967",
+  "name": "十銓",
+  "revenue": 1482536,
+  "L_Mon_Compare": 16.47,
+  "L_Year_Compare": 113.09,
+  "Remark": "B2B專案與品牌訂單持續增加出貨量。"
+ },
+ "46": {
+  "symbol": "8016",
+  "name": "矽創",
+  "revenue": 1432119,
+  "L_Mon_Compare": 2.96,
+  "L_Year_Compare": 4.83,
+  "Remark": "-"
+ },
+ "47": {
+  "symbol": "8150",
+  "name": "南茂",
+  "revenue": 1912350,
+  "L_Mon_Compare": 4.32,
+  "L_Year_Compare": 20.2,
+  "Remark": "-"
+ },
+ "48": {
+  "symbol": "2353",
+  "name": "宏碁",
+  "revenue": 28064739,
+  "L_Mon_Compare": 29.4,
+  "L_Year_Compare": 3.32,
+  "Remark": "-"
+ },
+ "49": {
+  "symbol": "2362",
+  "name": "藍天",
+  "revenue": 2617168,
+  "L_Mon_Compare": 23.27,
+  "L_Year_Compare": 23.49,
+  "Remark": "-"
+ },
+ "50": {
+  "symbol": "2376",
+  "name": "技嘉",
+  "revenue": 16271282,
+  "L_Mon_Compare": 36.3,
+  "L_Year_Compare": 85.58,
+  "Remark": "AI訂單需求暢旺"
+ },
+ "51": {
+  "symbol": "2377",
+  "name": "微星",
+  "revenue": 18110067,
+  "L_Mon_Compare": 7.19,
+  "L_Year_Compare": 39.4,
+  "Remark": "-"
+ },
+ "52": {
+  "symbol": "3017",
+  "name": "奇鋐",
+  "revenue": 5363932,
+  "L_Mon_Compare": 2.13,
+  "L_Year_Compare": 6.16,
+  "Remark": "-"
+ },
+ "53": {
+  "symbol": "3515",
+  "name": "華擎",
+  "revenue": 1973763,
+  "L_Mon_Compare": 20.6,
+  "L_Year_Compare": 43,
+  "Remark": "“本年累計營業收入淨額”採年平均匯率計算,“本月營業收入淨額”採該月平均匯率計算,故累計營收淨額與各月營收淨額加總會有差異"
+ },
+ "54": {
+  "symbol": "3701",
+  "name": "大眾控",
+  "revenue": 1172977,
+  "L_Mon_Compare": -20.16,
+  "L_Year_Compare": 16.3,
+  "Remark": "-"
+ },
+ "55": {
+  "symbol": "3712",
+  "name": "永崴投控",
+  "revenue": 1714256,
+  "L_Mon_Compare": 34.96,
+  "L_Year_Compare": 61.32,
+  "Remark": "主要係因子公司本月承接工程案件依進度認列收入"
+ },
+ "56": {
+  "symbol": "4938",
+  "name": "和碩",
+  "revenue": 132827701,
+  "L_Mon_Compare": 48.65,
+  "L_Year_Compare": 3.07,
+  "Remark": "-"
+ },
+ "57": {
+  "symbol": "2409",
+  "name": "友達",
+  "revenue": 24568621,
+  "L_Mon_Compare": 1.18,
+  "L_Year_Compare": 50.91,
+  "Remark": "本期營收較去年同期增加主要係出貨量增加所致。"
+ },
+ "58": {
+  "symbol": "2489",
+  "name": "瑞軒",
+  "revenue": 1820844,
+  "L_Mon_Compare": 3.16,
+  "L_Year_Compare": 18.54,
+  "Remark": "-"
+ },
+ "59": {
+  "symbol": "3008",
+  "name": "大立光",
+  "revenue": 5572471,
+  "L_Mon_Compare": 22.59,
+  "L_Year_Compare": 9.2,
+  "Remark": "-"
+ },
+ "60": {
+  "symbol": "3406",
+  "name": "玉晶光",
+  "revenue": 3462646,
+  "L_Mon_Compare": 7.02,
+  "L_Year_Compare": 26.71,
+  "Remark": "-"
+ },
+ "61": {
+  "symbol": "3481",
+  "name": "群創",
+  "revenue": 19913527,
+  "L_Mon_Compare": 3.58,
+  "L_Year_Compare": 17.31,
+  "Remark": "-"
+ },
+ "62": {
+  "symbol": "3714",
+  "name": "富采",
+  "revenue": 2126208,
+  "L_Mon_Compare": 3.82,
+  "L_Year_Compare": 1.96,
+  "Remark": "-"
+ },
+ "63": {
+  "symbol": "6120",
+  "name": "達運",
+  "revenue": 1578813,
+  "L_Mon_Compare": -17.74,
+  "L_Year_Compare": 70.19,
+  "Remark": "主要係本月業務量增加。"
+ },
+ "64": {
+  "symbol": "8215",
+  "name": "明基材",
+  "revenue": 1584168,
+  "L_Mon_Compare": 6.53,
+  "L_Year_Compare": 42.71,
+  "Remark": "-"
+ },
+ "65": {
+  "symbol": "2345",
+  "name": "智邦",
+  "revenue": 7515166,
+  "L_Mon_Compare": 1.53,
+  "L_Year_Compare": 2.26,
+  "Remark": "-"
+ },
+ "66": {
+  "symbol": "2439",
+  "name": "美律",
+  "revenue": 4502585,
+  "L_Mon_Compare": 74.28,
+  "L_Year_Compare": 10.49,
+  "Remark": "-"
+ },
+ "67": {
+  "symbol": "2450",
+  "name": "神腦",
+  "revenue": 2809253,
+  "L_Mon_Compare": 13.85,
+  "L_Year_Compare": 3.35,
+  "Remark": "-"
+ },
+ "68": {
+  "symbol": "3045",
+  "name": "台灣大",
+  "revenue": 14350565,
+  "L_Mon_Compare": -1.45,
+  "L_Year_Compare": 5.63,
+  "Remark": "-"
+ },
+ "69": {
+  "symbol": "3596",
+  "name": "智易",
+  "revenue": 4852577,
+  "L_Mon_Compare": 6.59,
+  "L_Year_Compare": 7.3,
+  "Remark": "-"
+ },
+ "70": {
+  "symbol": "4904",
+  "name": "遠傳",
+  "revenue": 8579190,
+  "L_Mon_Compare": 15.17,
+  "L_Year_Compare": 1.65,
+  "Remark": "-"
+ },
+ "71": {
+  "symbol": "2355",
+  "name": "敬鵬",
+  "revenue": 1525589,
+  "L_Mon_Compare": 2.66,
+  "L_Year_Compare": 9.17,
+  "Remark": "-"
+ },
+ "72": {
+  "symbol": "2383",
+  "name": "台光電",
+  "revenue": 4337243,
+  "L_Mon_Compare": 11.45,
+  "L_Year_Compare": 29.31,
+  "Remark": "-"
+ },
+ "73": {
+  "symbol": "2492",
+  "name": "華新科",
+  "revenue": 2935063,
+  "L_Mon_Compare": 2.37,
+  "L_Year_Compare": 6.57,
+  "Remark": "-"
+ },
+ "74": {
+  "symbol": "3023",
+  "name": "信邦",
+  "revenue": 2802165,
+  "L_Mon_Compare": 1.73,
+  "L_Year_Compare": 0.51,
+  "Remark": "-"
+ },
+ "75": {
+  "symbol": "3715",
+  "name": "定穎投控",
+  "revenue": 1502664,
+  "L_Mon_Compare": 4.83,
+  "L_Year_Compare": 16.01,
+  "Remark": "定穎投控於111/08/25公司始設立"
+ },
+ "76": {
+  "symbol": "6213",
+  "name": "聯茂",
+  "revenue": 2311510,
+  "L_Mon_Compare": 1.43,
+  "L_Year_Compare": 10.46,
+  "Remark": "-"
+ },
+ "77": {
+  "symbol": "6282",
+  "name": "康舒",
+  "revenue": 3719363,
+  "L_Mon_Compare": 9.84,
+  "L_Year_Compare": 46.85,
+  "Remark": "-"
+ },
+ "78": {
+  "symbol": "8213",
+  "name": "志超",
+  "revenue": 1561433,
+  "L_Mon_Compare": -12.82,
+  "L_Year_Compare": 8.24,
+  "Remark": "-"
+ },
+ "79": {
+  "symbol": "3010",
+  "name": "華立",
+  "revenue": 6646333,
+  "L_Mon_Compare": 1.96,
+  "L_Year_Compare": 6.44,
+  "Remark": "-"
+ },
+ "80": {
+  "symbol": "3028",
+  "name": "增你強",
+  "revenue": 3286442,
+  "L_Mon_Compare": 2.75,
+  "L_Year_Compare": 12.65,
+  "Remark": "-"
+ },
+ "81": {
+  "symbol": "3702",
+  "name": "大聯大",
+  "revenue": 70923189,
+  "L_Mon_Compare": 12.15,
+  "L_Year_Compare": 0.98,
+  "Remark": "-"
+ },
+ "82": {
+  "symbol": "6189",
+  "name": "豐藝",
+  "revenue": 3027372,
+  "L_Mon_Compare": 2.11,
+  "L_Year_Compare": 37.86,
+  "Remark": "-"
+ },
+ "83": {
+  "symbol": "8112",
+  "name": "至上",
+  "revenue": 14313764,
+  "L_Mon_Compare": -2.22,
+  "L_Year_Compare": 13.98,
+  "Remark": "-"
+ },
+ "84": {
+  "symbol": "3029",
+  "name": "零壹",
+  "revenue": 1321491,
+  "L_Mon_Compare": -6.72,
+  "L_Year_Compare": 12.05,
+  "Remark": "-"
+ },
+ "85": {
+  "symbol": "6112",
+  "name": "邁達特",
+  "revenue": 1305554,
+  "L_Mon_Compare": 16.65,
+  "L_Year_Compare": 20.85,
+  "Remark": "111/12/1逐鹿數位成為100%子公司，共同控制企業合併重編去年合併營收。本月較去年9月不含逐鹿數位增加227,293千元及21.08%。"
+ },
+ "86": {
+  "symbol": "2354",
+  "name": "鴻準",
+  "revenue": 6879714,
+  "L_Mon_Compare": -12.83,
+  "L_Year_Compare": 1.77,
+  "Remark": "-"
+ },
+ "87": {
+  "symbol": "2404",
+  "name": "漢唐",
+  "revenue": 9605328,
+  "L_Mon_Compare": 156.39,
+  "L_Year_Compare": 86.6,
+  "Remark": "營收較去年同期增加50%以上,係因本年累計正在投入進行的專案較去年同期增加所致"
+ },
+ "88": {
+  "symbol": "6139",
+  "name": "亞翔",
+  "revenue": 6468010,
+  "L_Mon_Compare": 56.24,
+  "L_Year_Compare": 103.39,
+  "Remark": "去年大陸地區受新冠肺炎疫情影響，現工程已漸漸步入正軌，以致本月營收較去年同期大幅度增加。"
+ },
+ "89": {
+  "symbol": "6196",
+  "name": "帆宣",
+  "revenue": 4915931,
+  "L_Mon_Compare": 8.95,
+  "L_Year_Compare": 7.08,
+  "Remark": "-"
+ },
+ "90": {
+  "symbol": "6691",
+  "name": "洋基工程",
+  "revenue": 1397970,
+  "L_Mon_Compare": 11.39,
+  "L_Year_Compare": 24.11,
+  "Remark": "-"
+ },
+ "91": {
+  "symbol": "6505",
+  "name": "台塑化",
+  "revenue": 70376594,
+  "L_Mon_Compare": 2.22,
+  "L_Year_Compare": 0.92,
+  "Remark": "-"
+ },
+ "92": {
+  "symbol": "9937",
+  "name": "全國",
+  "revenue": 2163046,
+  "L_Mon_Compare": -2.22,
+  "L_Year_Compare": 8.17,
+  "Remark": "-"
+ },
+ "93": {
+  "symbol": "1808",
+  "name": "潤隆",
+  "revenue": 7714736,
+  "L_Mon_Compare": 29.31,
+  "L_Year_Compare": 41065.01,
+  "Remark": "營收變動主要係本月及本期累計房地出售收入皆較去年同期增加所致。"
+ },
+ "94": {
+  "symbol": "2515",
+  "name": "中工",
+  "revenue": 1656859,
+  "L_Mon_Compare": -4.42,
+  "L_Year_Compare": 13.69,
+  "Remark": "-"
+ },
+ "95": {
+  "symbol": "2520",
+  "name": "冠德",
+  "revenue": 1850438,
+  "L_Mon_Compare": -2.01,
+  "L_Year_Compare": 46.09,
+  "Remark": "-"
+ },
+ "96": {
+  "symbol": "2542",
+  "name": "興富發",
+  "revenue": 8419448,
+  "L_Mon_Compare": 14,
+  "L_Year_Compare": 188.81,
+  "Remark": "本月較去年同期增加，主要係本月認列「竹科潤隆」及「國家大院」等建案收入所致。"
+ },
+ "97": {
+  "symbol": "2543",
+  "name": "皇昌",
+  "revenue": 1106017,
+  "L_Mon_Compare": 13.75,
+  "L_Year_Compare": 51.97,
+  "Remark": "部分工程進入施工高峰期，致本期營收較去年同期增加"
+ },
+ "98": {
+  "symbol": "2548",
+  "name": "華固",
+  "revenue": 1475229,
+  "L_Mon_Compare": 20.41,
+  "L_Year_Compare": 414.98,
+  "Remark": "本公司截至9月底累計營收較去年同期減少，係因本期認列交屋金額較低所致"
+ },
+ "99": {
+  "symbol": "3703",
+  "name": "欣陸",
+  "revenue": 3098964,
+  "L_Mon_Compare": 19.47,
+  "L_Year_Compare": 46.25,
+  "Remark": "-"
+ },
+ "100": {
+  "symbol": "2208",
+  "name": "台船",
+  "revenue": 1600377,
+  "L_Mon_Compare": -5.98,
+  "L_Year_Compare": 8.58,
+  "Remark": "-"
+ },
+ "101": {
+  "symbol": "2607",
+  "name": "榮運",
+  "revenue": 1687371,
+  "L_Mon_Compare": 21.24,
+  "L_Year_Compare": 13.86,
+  "Remark": "-"
+ },
+ "102": {
+  "symbol": "2610",
+  "name": "華航",
+  "revenue": 14905667,
+  "L_Mon_Compare": -8.45,
+  "L_Year_Compare": 24.16,
+  "Remark": "-"
+ },
+ "103": {
+  "symbol": "2618",
+  "name": "長榮航",
+  "revenue": 16400974,
+  "L_Mon_Compare": -9.74,
+  "L_Year_Compare": 44.83,
+  "Remark": "-"
+ },
+ "104": {
+  "symbol": "2633",
+  "name": "台灣高鐵",
+  "revenue": 3916585,
+  "L_Mon_Compare": -6.8,
+  "L_Year_Compare": 14.41,
+  "Remark": "-"
+ },
+ "105": {
+  "symbol": "2634",
+  "name": "漢翔",
+  "revenue": 3333466,
+  "L_Mon_Compare": -1.55,
+  "L_Year_Compare": 16.53,
+  "Remark": "-"
+ },
+ "106": {
+  "symbol": "2645",
+  "name": "長榮航太",
+  "revenue": 1259875,
+  "L_Mon_Compare": -6.05,
+  "L_Year_Compare": 11.4,
+  "Remark": "-"
+ },
+ "107": {
+  "symbol": "6757",
+  "name": "台灣虎航-創",
+  "revenue": 1073509,
+  "L_Mon_Compare": -13.33,
+  "L_Year_Compare": 2053.69,
+  "Remark": "本公司9月單月營收創同期新高，累計營收創歷史新高，係國境自去(111)年10月13日解封，航班恢復及票價提升所致。"
+ },
+ "108": {
+  "symbol": "2727",
+  "name": "王品",
+  "revenue": 1754190,
+  "L_Mon_Compare": -16.48,
+  "L_Year_Compare": 9.86,
+  "Remark": "-"
+ },
+ "109": {
+  "symbol": "2731",
+  "name": "雄獅",
+  "revenue": 2208064,
+  "L_Mon_Compare": 2.45,
+  "L_Year_Compare": 574.22,
+  "Remark": "受惠政府解除國外組團禁令，觀光需求活絡帶動本公司營收增長，故本月較去年同期成長幅度較高。"
+ },
+ "110": {
+  "symbol": "2801",
+  "name": "彰銀",
+  "revenue": 3083630,
+  "L_Mon_Compare": -0.22,
+  "L_Year_Compare": 30.61,
+  "Remark": "-"
+ },
+ "111": {
+  "symbol": "2812",
+  "name": "台中銀",
+  "revenue": 1338337,
+  "L_Mon_Compare": -13.08,
+  "L_Year_Compare": 9.84,
+  "Remark": "-"
+ },
+ "112": {
+  "symbol": "2834",
+  "name": "臺企銀",
+  "revenue": 2635180,
+  "L_Mon_Compare": 7.93,
+  "L_Year_Compare": 10.11,
+  "Remark": "-"
+ },
+ "113": {
+  "symbol": "2845",
+  "name": "遠東銀",
+  "revenue": 1083254,
+  "L_Mon_Compare": -6.38,
+  "L_Year_Compare": 52.76,
+  "Remark": "本月營收較去年增52.77%，主要係權益法投資大中票券認列廉價購買利益205百萬、金融商品收益增加290百萬及淨利息收益減少85百萬。"
+ },
+ "114": {
+  "symbol": "2850",
+  "name": "新產",
+  "revenue": 1699357,
+  "L_Mon_Compare": -2.53,
+  "L_Year_Compare": 6.46,
+  "Remark": "-"
+ },
+ "115": {
+  "symbol": "2851",
+  "name": "中再保",
+  "revenue": 1751219,
+  "L_Mon_Compare": -10.28,
+  "L_Year_Compare": 1.25,
+  "Remark": "-"
+ },
+ "116": {
+  "symbol": "2880",
+  "name": "華南金",
+  "revenue": 4859866,
+  "L_Mon_Compare": -6.51,
+  "L_Year_Compare": 2.27,
+  "Remark": "-"
+ },
+ "117": {
+  "symbol": "2884",
+  "name": "玉山金",
+  "revenue": 5455815,
+  "L_Mon_Compare": -6.32,
+  "L_Year_Compare": 56.91,
+  "Remark": "係因透過損益按公允價值衡量之金融資產及負債損益較去年增加20億所致。"
+ },
+ "118": {
+  "symbol": "2885",
+  "name": "元大金",
+  "revenue": 7048278,
+  "L_Mon_Compare": -21.75,
+  "L_Year_Compare": 2.73,
+  "Remark": "-"
+ },
+ "119": {
+  "symbol": "2886",
+  "name": "兆豐金",
+  "revenue": 5423621,
+  "L_Mon_Compare": -13.26,
+  "L_Year_Compare": 93.19,
+  "Remark": "本月營業收入較去年本月增加，主係去年本月保險淨收益為負數(防疫保險理賠款增加)。"
+ },
+ "120": {
+  "symbol": "2890",
+  "name": "永豐金",
+  "revenue": 4327746,
+  "L_Mon_Compare": -10.44,
+  "L_Year_Compare": 11.01,
+  "Remark": "-"
+ },
+ "121": {
+  "symbol": "2891",
+  "name": "中信金",
+  "revenue": 12852866,
+  "L_Mon_Compare": -4.81,
+  "L_Year_Compare": 40.14,
+  "Remark": "-"
+ },
+ "122": {
+  "symbol": "5876",
+  "name": "上海商銀",
+  "revenue": 4172047,
+  "L_Mon_Compare": -7.84,
+  "L_Year_Compare": 10.79,
+  "Remark": "-"
+ },
+ "123": {
+  "symbol": "5880",
+  "name": "合庫金",
+  "revenue": 4738180,
+  "L_Mon_Compare": -5.13,
+  "L_Year_Compare": 19.72,
+  "Remark": "-"
+ },
+ "124": {
+  "symbol": "6005",
+  "name": "群益證",
+  "revenue": 1057053,
+  "L_Mon_Compare": -21.51,
+  "L_Year_Compare": 159.33,
+  "Remark": "主係自營操作獲利增加"
+ },
+ "125": {
+  "symbol": "2912",
+  "name": "統一超",
+  "revenue": 27120033,
+  "L_Mon_Compare": -1.41,
+  "L_Year_Compare": 9.99,
+  "Remark": "-"
+ },
+ "126": {
+  "symbol": "2945",
+  "name": "三商家購",
+  "revenue": 1209033,
+  "L_Mon_Compare": -6.54,
+  "L_Year_Compare": 1.13,
+  "Remark": "-"
+ },
+ "127": {
+  "symbol": "6806",
+  "name": "森崴能源",
+  "revenue": 1051286,
+  "L_Mon_Compare": 32.45,
+  "L_Year_Compare": 297.02,
+  "Remark": "主要係因離岸之主要工程開始施作認列收入所致"
+ },
+ "128": {
+  "symbol": "8454",
+  "name": "富邦媒",
+  "revenue": 7996666,
+  "L_Mon_Compare": -7.22,
+  "L_Year_Compare": 6.57,
+  "Remark": "-"
+ },
+ "129": {
+  "symbol": "1736",
+  "name": "喬山",
+  "revenue": 3587203,
+  "L_Mon_Compare": 9.48,
+  "L_Year_Compare": 9.54,
+  "Remark": "-"
+ },
+ "130": {
+  "symbol": "8478",
+  "name": "東哥遊艇",
+  "revenue": 1019826,
+  "L_Mon_Compare": 341.95,
+  "L_Year_Compare": 72.07,
+  "Remark": "主係認列遊艇銷貨收入增加所致"
+ },
+ "131": {
+  "symbol": "8464",
+  "name": "億豐",
+  "revenue": 2304128,
+  "L_Mon_Compare": -3.3,
+  "L_Year_Compare": 5.64,
+  "Remark": "-"
+ },
+ "132": {
+  "symbol": "9924",
+  "name": "福興",
+  "revenue": 1117430,
+  "L_Mon_Compare": 22.24,
+  "L_Year_Compare": 34.9,
+  "Remark": "-"
+ },
+ "133": {
+  "symbol": "2514",
+  "name": "龍邦",
+  "revenue": 2058366,
+  "L_Mon_Compare": -2.77,
+  "L_Year_Compare": 135.85,
+  "Remark": "本公司因合併泰山(1218)，致營收較去年同期增加。"
+ },
+ "134": {
+  "symbol": "6592",
+  "name": "和潤企業",
+  "revenue": 2554859,
+  "L_Mon_Compare": 0.37,
+  "L_Year_Compare": 29.7,
+  "Remark": "-"
+ },
+ "135": {
+  "symbol": "9917",
+  "name": "中保科",
+  "revenue": 1411681,
+  "L_Mon_Compare": -2.26,
+  "L_Year_Compare": 12.55,
+  "Remark": "-"
+ },
+ "136": {
+  "symbol": "9933",
+  "name": "中鼎",
+  "revenue": 10596263,
+  "L_Mon_Compare": 16.52,
+  "L_Year_Compare": 20.55,
+  "Remark": "-"
+ },
+ "137": {
+  "symbol": "9941",
+  "name": "裕融",
+  "revenue": 3549873,
+  "L_Mon_Compare": -0.76,
+  "L_Year_Compare": 13.88,
+  "Remark": "-"
+ }
+}
