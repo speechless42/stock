@@ -47,7 +47,7 @@ sequelize.sync().then(() => {
           }else{
               day = (today.getDay()).toString();
           }
-            let ThisDay = `${today.getFullYear()}-${month}-0${today.getDate()-1}`
+            let ThisDay = `${today.getFullYear()}-${month}-${day}`
             
             stock.historical.candles({symbol:IDs[i].dataValues.symbol,to:ThisDay,from:ThisDay,timeframe:'D',fields: 'open,high,low,close,volume,change'})
             .then((data)=>{

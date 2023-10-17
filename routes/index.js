@@ -18,7 +18,7 @@ const SetDB_Revenue = require("../DataBase/Revenue")
 const Math_Revenue = require("../Math/Math_Revenue")
 const Revenue = require("../Scraper/revenue")
 
-const Cron_L_Mon_Revenue = new CronJob('5 2 2 3,5,7,10 * *', async function(){
+const Cron_L_Mon_Revenue = new CronJob('1 1 1 3,5,7,10 * *', async function(){
   let Lian_L_Mon_sii = await Math_Revenue.Trade_L_Mon_Revenue("sii",Revenue)
   
   let Lian_L_Mon_otc = await Math_Revenue.Trade_L_Mon_Revenue("otc",Revenue)
@@ -31,7 +31,7 @@ const Cron_L_Mon_Revenue = new CronJob('5 2 2 3,5,7,10 * *', async function(){
 }, null, true, 'Asia/Taipei')
 Cron_L_Mon_Revenue.start();
 
-const Cron_L_Year_Revenue = new CronJob('5 2 2 3,5,7,10  * *', async function(){
+const Cron_L_Year_Revenue = new CronJob('1 1 1 3,5,7,10  * *', async function(){
   let Lian_L_Year_sii = await Math_Revenue.Trade_L_Year_Revenue("sii",Revenue)
 
   let Lian_L_Year_otc = await Math_Revenue.Trade_L_Year_Revenue("otc",Revenue)
@@ -47,7 +47,7 @@ const Cron_L_Year_Revenue = new CronJob('5 2 2 3,5,7,10  * *', async function(){
 }, null, true, 'Asia/Taipei')
 Cron_L_Year_Revenue.start();
 
-const Cron_L_All_Revenue = new CronJob('5 2 2 3,5,7,10 * *', async function(){
+const Cron_L_All_Revenue = new CronJob('1 1 1 3,5,7,10 * *', async function(){
   let Lian_ALL_sii = await Math_Revenue.Trade_ALL_Revenue("sii",Revenue)
 
   let Lian_ALL_otc = await Math_Revenue.Trade_ALL_Revenue("otc",Revenue)
@@ -70,53 +70,57 @@ async function GetDayStockDetails(){
   x = x.date
   //////////////
   var today = new Date();
-  var month;
+  var month ,todayDate;
   if((today.getMonth()+1)<10){
       month = `0${today.getMonth()+1}`;
   }else{
       month = today.getMonth()+1;
-      }
-  // let ThisDay = `${today.getFullYear()}-${month}-${today.getDate()}`
-  ////////////////
-  // if(ThisDay != x){
-  //   console.log("股價沒更新")
-  //   return "股價沒更新"
-  // }
-  // else{
-    
-  //   Get_Day_Stock_Detail_F.Get_Day_Stock_Details();
-  //   console.log("股價於三點更新")
-  //   return ThisDay + "股價於三點更新"
-  await Get_Day_Stock_Detail_F.Get_Day_Stock_Details();
-  // }
+  }
+  if((today.getDate())<10){
+    todayDate = `0${today.getDate()}`;
+  }else{
+    todayDate = today.getDate();
+  }
+  let ThisDay = `${today.getFullYear()}-${month}-${todayDate}`
+  //////////////
+  if(ThisDay != x){
+    console.log("股價沒更新")
+    return "股價沒更新"
+  }
+  else{
+    await Get_Day_Stock_Detail_F.Get_Day_Stock_Details();
+    console.log("股價於三點更新")
+    return ThisDay + "股價於三點更新"
+  // await Get_Day_Stock_Detail_F.Get_Day_Stock_Details();
+  }
 }
-const Cron_StockDetails = new CronJob('0 0 15 * * *', async function() {
+const Cron_StockDetails = new CronJob('1 1 15 * * *', async function() {
   await GetDayStockDetails();
 }, null, true, 'Asia/Taipei');
 Cron_StockDetails.start();
 ////////////////////計算爆量
 const Get_Math_Volume = require('../Math/Math_Volume')
-const Cron_Math_Volume = new CronJob('0 0 18 * * *', async function() {
+const Cron_Math_Volume = new CronJob('1 1 18 * * *', async function() {
   await Get_Math_Volume.Trade_Volume();
 }, null, true, 'Asia/Taipei');
 Cron_Math_Volume.start();
 
-const GetDBVolume = sequelize.define('VolumeGos',{
-  id:{
-      type: DataTypes.NUMBER,
-      primaryKey: true,
-      autoIncrement: true
-  },
-  symbol: {
-    type: DataTypes.STRING,
-    allowNull: false,
-  },
-  date:{
-      type: DataTypes.STRING,
-  }
-},{
-  timestamps: false
-})
+// const GetDBVolume = sequelize.define('VolumeGos',{
+//   id:{
+//       type: DataTypes.NUMBER,
+//       primaryKey: true,
+//       autoIncrement: true
+//   },
+//   symbol: {
+//     type: DataTypes.STRING,
+//     allowNull: false,
+//   },
+//   date:{
+//       type: DataTypes.STRING,
+//   }
+// },{
+//   timestamps: false
+// })
 
 
 // const Cron_DB_Revenue = new CronJob('* 50 1 * * *', async function(){
